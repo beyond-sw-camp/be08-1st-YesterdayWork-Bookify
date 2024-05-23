@@ -2,14 +2,23 @@
 <img src="https://github.com/beyond-sw-camp/be08-1st-5team/assets/121468393/2556ef3a-2829-41cd-b7ca-f36a8b1e1dd6"/>
 
 > [PLAYDATA] 한화시스템 BEYOND SW캠프 / Bookify
+
+> Team - 어제일(어디서든 재미있게 일하자!)
 <br>
 
 ## ✨ Medium
--
+- [🇺🇸 Medium English.ver]<br>
+- [🇰🇷 Medium Korean.ver]
 <br>
 
 ## ⚙Tech Stack
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+OS <br>
+<img src=""> <br>
+Database <br>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <br>
+Collaboration Tools <br>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <br>
 
 ## 🗂️ Project Introduction
@@ -23,7 +32,7 @@
 ## 💾 Project Implementation
 ### 1. Relation Schema
 ### 2. ERD Diagram
-### 3. Quary
+### 3. Queries
 ### 4. Test Case
 
 <br>
