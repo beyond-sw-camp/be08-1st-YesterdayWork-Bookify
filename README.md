@@ -20,7 +20,7 @@
 
 <br>
 
-## 🧮 Project Implementation
+## 💾 Project Implementation
 ### 1. Relation Schema
 ### 2. ERD Diagram
 ### 3. Quary
