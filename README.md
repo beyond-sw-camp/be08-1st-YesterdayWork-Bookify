@@ -3,7 +3,7 @@
 
 > [PLAYDATA] 한화시스템 BEYOND SW캠프 / Bookify
 
-> Team - 어제일(어디서든 재미있게 일하자!)
+> Team - 어제일(어디서든 재미지게 일해요!)
 <br>
 
 ## ✨ Medium
