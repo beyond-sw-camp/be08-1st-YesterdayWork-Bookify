@@ -12,14 +12,18 @@
 <br>
 
 ## ⚙Tech Stack
-OS <br>
-<img src=""> <br>
-Database <br>
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <br>
-Collaboration Tools <br>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+<p><strong> OS <br></strong>
 <br>
+<img src="">
+</p>
+<p><strong> Database <br></strong>
+<br>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+</p>
+<p><strong> Collaboration Tools <br></strong>
+<br>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+</p>
 
 ## 🗂️ Project Introduction
 
