@@ -37,8 +37,17 @@
 <br> <br>
 ![1](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/6072c235-188d-4491-9479-68283b3c84fc)
 ![2](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/d1d4e736-aff9-47f1-ac11-55e5c54d506e)
-
 <br>
+
+**프로젝트 목표:**
+<br>
+&nbsp;&nbsp;ㅁㄴㅇㄹ
+<br> <br>
+**기대 효과:**
+<br>
+&nbsp;&nbsp;ㅁㄴㅇㄹ
+<br> <br>
+
 
 ## 📑 Functional Requirements Document
 
