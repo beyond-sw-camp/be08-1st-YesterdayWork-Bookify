@@ -14,7 +14,7 @@
 ## ⚙Tech Stack
 <p><strong> OS <br></strong>
 <br>
-<img src="">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 <p><strong> Database <br></strong>
 <br>
