@@ -57,7 +57,6 @@
 </p>
 <br>
 
-
 ## 💾 Project Implementation
 ### 1. Relation Schema
 ### 2. ERD Diagram
@@ -69,7 +68,8 @@
 ## 📆 WBS
 
 [WBS 바로가기]()
-<br><br>
+
+<br>
 
 ## 👨‍👩‍👧‍👦 Member
 
