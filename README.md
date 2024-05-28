@@ -37,8 +37,10 @@
 <br>
 &nbsp;&nbsp;1994년 첫 조사 당시 86%를 넘겼던 종합 독서율은 2013년 이후 계속 줄어 2023년에는 43%가 되었습니다. 이로 인해 한 사이트에서 올린 사과문의 마음이 깊고 간절하다는 뜻의 ‘심심한’ 사과를 지루하고 재미가 없다는 ‘심심하다’로 이해한 사람들이 생기는 등의 문해력 논란이 발생하고 있습니다. 독서는 지식 습득과 창의적 사고와 커뮤니케이션 능력을 향상시키는 데 중요한 역할을 합니다. 이 프로젝트를 통해 줄어들고 있는 독서율을 올려 독서 문화를 활성화시키고 사람들의 문해력을 향상시키며, 지식습득에 도움이 될 것으로 기대됩니다.
 
-![1](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/6072c235-188d-4491-9479-68283b3c84fc)
-![2](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/d1d4e736-aff9-47f1-ac11-55e5c54d506e)
+<div style="display: flex;">
+    <img src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/6072c235-188d-4491-9479-68283b3c84fc" alt="Image 1" style="width: 480px; height: 270px; object-fit: cover;">
+    <img src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/d1d4e736-aff9-47f1-ac11-55e5c54d506e" alt="Image 2" style="width: 480px; height: 270px; object-fit: cover;">
+</div>
 
 **프로젝트 목표:**
 &nbsp;&nbsp;
@@ -69,7 +71,6 @@
   - 테스트 케이스 명세서 (Test Case Document) 작성
 
   - 테스트 (Test)
-<br>
 
 **기대 효과:**
 &nbsp;&nbsp;
