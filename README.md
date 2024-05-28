@@ -22,7 +22,7 @@
 <br>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 </p>
-<p><strong> Collaboration Tools <br></strong>
+<p><strong> Collaboration Tool <br></strong>
 <br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </p>
