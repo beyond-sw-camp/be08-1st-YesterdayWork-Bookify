@@ -1,5 +1,7 @@
 # 📖 Bookify
-<img src="https://github.com/beyond-sw-camp/be08-1st-5team/assets/121468393/2556ef3a-2829-41cd-b7ca-f36a8b1e1dd6"/>
+<a href="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify"/>
+  <img src="https://github.com/beyond-sw-camp/be08-1st-5team/assets/121468393/2556ef3a-2829-41cd-b7ca-f36a8b1e1dd6"/>
+</a>
 
 > [PLAYDATA] 한화시스템 BEYOND SW캠프 / Bookify
 
