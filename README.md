@@ -41,12 +41,42 @@
 ![2](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/d1d4e736-aff9-47f1-ac11-55e5c54d506e)
 
 **프로젝트 목표:**
+&nbsp;&nbsp;
+- 요구 사항 명세서 (**Functional Requirements Document**) 작성
+
+- 개념적 모델링 (Conceptual Modeling)
+
+  - 개체 (Entity), 속성 (Attribute), 관계 (Relation) 정의
+
+  - ER-Diagram 작성
+
+- 논리적 모델링 (Logical Modeling)
+
+  - ER-Diagram을 테이블 형태의 모델로 재구성 
+
+  -  Type, Key 추가
+
+  - 정규화 (Normalization)
+
+- 물리적 모델링 (Physical Modeling)
+
+  - 환경 & DB 선택 (Linux-Ubuntu, MariaDB)
+
+  - 선택한 환경 & DB에 맞춰 Quary 작성
+
+- 테스트 (Test)
+
+  - 테스트 케이스 명세서 (Test Case Document) 작성
+
+  - 테스트 (Test)
 <br>
-&nbsp;&nbsp;ㅁㄴㅇㄹ
 
 **기대 효과:**
-<br>
-&nbsp;&nbsp;ㅁㄴㅇㄹ
+&nbsp;&nbsp;
+- 도서 관리 업무 효율성 증대
+- 독서 문화 활성화
+- 사용자의 독서 활동 지원
+- 문해력 향상, 지식 습득 도움
 <br><br>
 
 ## 📑 Functional Requirements Document
