@@ -71,7 +71,7 @@
 
 [김지원](https://github.com/gogowonji)|[임지훈](https://github.com/limjihoon99)|[전지연](https://github.com/jiyeonjeon01)|[전현규](https://github.com/ideapple)|[홍석민](https://github.com/mmvne)|
 ------|------|------|--------------------------------------|------|
-![김지원](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/6afb6694-95b9-49f0-8366-412e47b15b30) | ![임지훈](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/c0dba10c-2dd4-42cd-8859-82984a067b50) | ![전지연]() | ![전현규]() | ![홍석민](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/900dc6bb-709f-4f3b-a741-47e5c6119e61) | 
+![김지원](https://github.com/gogowonji)(https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/6afb6694-95b9-49f0-8366-412e47b15b30) | ![임지훈](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/c0dba10c-2dd4-42cd-8859-82984a067b50) | ![전지연]() | ![전현규]() | ![홍석민](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/900dc6bb-709f-4f3b-a741-47e5c6119e61) | 
 
 <br>
 
