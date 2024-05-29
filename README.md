@@ -123,7 +123,7 @@ CREATE TABLE book (
 CREATE TABLE room (
 	roomID INT PRIMARY KEY,
 	roomNo INT NOT NULL,
-	capaciry INT NOT NULL,
+	capacity INT NOT NULL,
 	price VARCHAR(20) NOT NULL,
 	description VARCHAR(100) NOT NULL,
 	reservationCheck CHAR(1) DEFAULT 'N' CHECK(reservationCheck IN ('Y', 'N'))
@@ -176,7 +176,7 @@ CREATE TABLE payment (
 
 -- lostarticle 테이블 생성
 CREATE TABLE lostarticle (
-  articleID INT PRIMARY KEY,
+	articleID INT PRIMARY KEY,
 	articleName VARCHAR(20) NOT NULL,
 	description VARCHAR(100) NOT NULL,
 	foundDate DATE NOT NULL,
