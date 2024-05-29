@@ -91,7 +91,13 @@
 
 ## 💾 Project Implementation
 ### 1. Relation Schema
+![다이어그램](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/688285ab-1d44-4376-9220-7ca2c4dd3744)
+<br>
+
 ### 2. ERD Diagram
+![erd](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/42d98645-f8eb-478c-892c-f9f8ae6224a0)
+<br>
+
 ### 3. Queries
 ```sql
 -- user 테이블 생성
