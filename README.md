@@ -10,7 +10,7 @@
 
 ## ✨ Medium
 - [🇺🇸 Medium English.ver]<br>
-- [🇰🇷 Medium Korean.ver]
+- [🇰🇷 Medium Korean.ver](https://medium.com/@ljh01051826177/bookify-%EB%8F%84%EC%84%9C-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-1886009e4799)
 <br>
 
 ## ⚙Tech Stack
