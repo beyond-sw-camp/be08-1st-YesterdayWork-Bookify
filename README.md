@@ -64,7 +64,7 @@
 
   - 환경 & DB 선택 (Linux-Ubuntu, MariaDB)
 
-  - 선택한 환경 & DB에 맞춰 Quary 작성
+  - 선택한 환경 & DB에 맞춰 Query 작성
 
 - 테스트 (Test)
 
