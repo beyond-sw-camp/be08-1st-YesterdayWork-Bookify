@@ -96,20 +96,20 @@
 ```sql
 -- user 테이블 생성
 CREATE TABLE user (
-	userID INT PRIMARY KEY,
+	userID INT AUTO_INCREMENT PRIMARY KEY,
 	email VARCHAR(50) NOT NULL,
 	userPW VARCHAR(20) NOT NULL,
 	userName VARCHAR(15) NOT NULL,
 	userNo VARCHAR(15) NOT NULL,
 	addr VARCHAR(100) NOT NULL,
 	phone VARCHAR(20) NOT NULL,
-	level VARCHAR(10)
+	level CHAR(1) DEFAULT '1' CHECK(level IN ('1', '2', '3'))
 );
 
 -- book 테이블 생성
 CREATE TABLE book (
-	bookID INT PRIMARY KEY,
-	category VARCHAR(10) NOT NULL,
+	bookID INT AUTO_INCREMENT PRIMARY KEY,
+	category CHAR(1) CHECK(category IN ('IT', '과학', '수학', '인문', '소설')),
 	writer VARCHAR(15) NOT NULL,
 	publisher VARCHAR(20) NOT NULL,
 	pubDate DATE NOT NULL,
@@ -121,7 +121,7 @@ CREATE TABLE book (
 
 -- room 테이블 생성
 CREATE TABLE room (
-	roomID INT PRIMARY KEY,
+	roomID INT AUTO_INCREMENT PRIMARY KEY,
 	roomNo INT NOT NULL,
 	capacity INT NOT NULL,
 	price VARCHAR(20) NOT NULL,
@@ -131,9 +131,15 @@ CREATE TABLE room (
 
 -- rent 테이블 생성
 CREATE TABLE rent (
-	rentID INT PRIMARY KEY,
+	rentID INT AUTO_INCREMENT PRIMARY KEY,
 	userID INT NOT NULL REFERENCES user(userID),
-	bookID INT NOT NULL REFERENCES book(bookID),
+	bookID INT NOT NULL REFERENCES book(bookID)
+);
+
+-- rentinfo 테이블 생성
+CREATE TABLE rentinfo (
+	rentID INT PRIMARY KEY,
+	FOREIGN KEY (rentID) REFERENCES rent(rentID),
 	borrowDate DATE NOT NULL,
 	returnDate DATE NOT NULL,
 	renew INT,
@@ -142,41 +148,43 @@ CREATE TABLE rent (
 
 -- roomreservation 테이블 생성
 CREATE TABLE roomreservation (
-	reservationID INT PRIMARY KEY,
+	reservationID INT AUTO_INCREMENT PRIMARY KEY,
 	userID INT NOT NULL REFERENCES user(userID),
-	roomID INT NOT NULL REFERENCES room(roomID),
+	roomID INT NOT NULL REFERENCES room(roomID)
+);
+
+-- reservinfo 테이블 생성
+CREATE TABLE reservinfo (
+	reservationID INT PRIMARY KEY,
+	FOREIGN KEY (reservationID) REFERENCES roomreservation(reservationID),
 	reservationDate DATE NOT NULL,
-	startTime DATE NOT NULL,
-	endTime DATE NOT NULL,
+	startTime TIME NOT NULL,
+	endTime TIME NOT NULL,
 	totalPrice VARCHAR(20) NOT NULL,
 	paymentCheck CHAR(1) DEFAULT 'N' CHECK(paymentCheck IN ('Y', 'N'))
 );
 
 -- reservation 테이블 생성
 CREATE TABLE reservation (
-	reservation DATE NOT NULL,
+	reservationID INT NOT NULL,
 	userID INT NOT NULL,
 	bookID INT NOT NULL,
-	PRIMARY KEY (reservation, userID, bookID),
 	FOREIGN KEY (userID) REFERENCES user(userID),
-	FOREIGN KEY (bookID) REFERENCES book(bookID)
+	FOREIGN KEY (bookID) REFERENCES book(bookID),
+	reservationDate DATE NOT NULL
 );
 
 -- payment 테이블 생성
 CREATE TABLE payment (
-	payID INT NOT NULL,
-	reservationID INT NOT NULL,
-	PRIMARY KEY (payID, reservationID),
-	FOREIGN KEY (reservationID) REFERENCES roomreservation(reservationID),
-	userID INT NOT NULL,
-	FOREIGN KEY (userID) REFERENCES user(userID),
+	payID INT AUTO_INCREMENT PRIMARY KEY,
+	reservationID INT NOT NULL REFERENCES roomreservation(reservationID),
 	account VARCHAR(20) NOT NULL,
 	payDate DATE NOT NULL
 );
 
--- lostarticle 테이블 생성
-CREATE TABLE lostarticle (
-	articleID INT PRIMARY KEY,
+-- lostArticle 테이블 생
+CREATE TABLE lostArticle (
+	articleID INT AUTO_INCREMENT PRIMARY KEY,
 	articleName VARCHAR(20) NOT NULL,
 	description VARCHAR(100) NOT NULL,
 	foundDate DATE NOT NULL,
