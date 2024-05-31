@@ -99,7 +99,6 @@
 
 ### 2. E-R Diagram
 
-[ERDCloud 바로가기](https://www.erdcloud.com/d/NNLwmhBxDLWQFbhym)
 <p align="center">
   <img alt="ERD" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/42d98645-f8eb-478c-892c-f9f8ae6224a0">
 </p>
