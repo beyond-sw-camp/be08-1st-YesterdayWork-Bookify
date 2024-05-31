@@ -200,7 +200,131 @@ CREATE TABLE lostArticle (
 <br>
 
 ### 4. Test Case
+<details>
+<summary><b>👨‍👩‍👧‍👦 회원</b></summary>
+    <div>
+         <details>
+         <summary><b>1. 회원가입</b></summary>
+         <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>2. 비밀번호 찾기</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>3. 회원정보 수정</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>4. 회원 탈퇴</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>5. 초대 내역 확인</b></summary>
+         <p><img src=""/></p>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>6. 회원 상태 관리</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>7. 회원ID 검색</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>				 
+	 <details>
+         <summary><b>8. 닉네임 검색</b></summary>
+         <p><img src=""/></p>
+	 <p><img src=""/></p>
+         </details>
+    </div>
+</details>
 
+***
+<details>
+<summary><b>🗂️ 대여</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>📆 예약</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>📚 도서</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>💵 결제</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>🏠 스터디룸</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>📞 스터디룸 예약</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
+<details>
+<summary><b>🗑️ 분실물 관리</b></summary>
+    <div>
+         <details>
+         <summary><b>1. </b></summary>
+         <p><img src=""/></p>
+         </details>
+    </div>
+</details>
+
+***
 <br>
 
 ## 📆 WBS
