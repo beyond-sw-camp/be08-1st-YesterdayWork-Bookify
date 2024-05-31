@@ -81,7 +81,7 @@
 - 문해력 향상, 지식 습득 도움
 <br><br>
 
-## 📑 Functional Requirements Document
+## 📑 Requirements Specification
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1azL5JFYkDG-x_0h_-G_UlzYcp8AVSjmVOD48U23bpF8/edit#gid=0)
 <p align="center">
