@@ -85,20 +85,25 @@
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1azL5JFYkDG-x_0h_-G_UlzYcp8AVSjmVOD48U23bpF8/edit#gid=0)
 <p align="center">
-  <img width="960" alt="Document" src="">
+  <img alt="Document" src="">
 </p>
 <br>
 
 ## 💾 Project Implementation
 ### 1. Relation Schema
-![다이어그램](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/688285ab-1d44-4376-9220-7ca2c4dd3744)
-<br> <br>
+
+<p align="center">
+  <img alt="Diagram" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/688285ab-1d44-4376-9220-7ca2c4dd3744">
+</p>
+<br>
 
 ### 2. E-R Diagram
 
 [ERDCloud 바로가기](https://www.erdcloud.com/d/NNLwmhBxDLWQFbhym)
-![erd](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/42d98645-f8eb-478c-892c-f9f8ae6224a0)
-<br> <br>
+<p align="center">
+  <img alt="ERD" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/42d98645-f8eb-478c-892c-f9f8ae6224a0">
+</p>
+<br>
 
 ### 3. Queries
 ```sql
@@ -333,7 +338,7 @@ CREATE TABLE lostArticle (
 
 [WBS 바로가기](https://docs.google.com/spreadsheets/d/1qBXJ-O0gGKtYRTByAJKakIpcM5evuhXJHEDdu9YWGek/edit#gid=0)
 <p align="center">
-  <img width="960" alt="WBS" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/ab87496e-7512-4023-bbdd-6c3d31940eed">
+  <img alt="WBS" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/ab87496e-7512-4023-bbdd-6c3d31940eed">
 </p>
 <br>
 
