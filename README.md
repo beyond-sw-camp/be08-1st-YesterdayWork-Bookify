@@ -94,7 +94,9 @@
 ![다이어그램](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/688285ab-1d44-4376-9220-7ca2c4dd3744)
 <br> <br>
 
-### 2. ERD Diagram
+### 2. E-R Diagram
+
+[ERDCloud 바로가기](https://www.erdcloud.com/d/NNLwmhBxDLWQFbhym)
 ![erd](https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/42d98645-f8eb-478c-892c-f9f8ae6224a0)
 <br> <br>
 
