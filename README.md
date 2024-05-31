@@ -115,7 +115,7 @@ CREATE TABLE user (
 -- book 테이블 생성
 CREATE TABLE book (
 	bookID INT AUTO_INCREMENT PRIMARY KEY,
-	category CHAR(1) CHECK(category IN ('IT', '과학', '수학', '인문', '소설')),
+	category CHAR(2) CHECK(category IN ('IT', '과학', '수학', '인문', '소설')),
 	writer VARCHAR(15) NOT NULL,
 	publisher VARCHAR(20) NOT NULL,
 	pubDate DATE NOT NULL,
@@ -144,12 +144,12 @@ CREATE TABLE rent (
 
 -- rentinfo 테이블 생성
 CREATE TABLE rentinfo (
-	rentID INT PRIMARY KEY,
-	FOREIGN KEY (rentID) REFERENCES rent(rentID),
+	infoID INT AUTO_INCREMENT PRIMARY KEY,
+	rentID INT NOT NULL REFERENCES rent(rentID),
 	borrowDate DATE NOT NULL,
 	returnDate DATE NOT NULL,
 	renew INT,
-	renewCheck CHAR(1) DEFAULT 'N' CHECK(renewCheck IN ('Y', 'N'))
+	overdueCheck CHAR(1) DEFAULT 'N' CHECK(overdueCheck IN ('Y', 'N'))
 );
 
 -- roomreservation 테이블 생성
@@ -161,8 +161,8 @@ CREATE TABLE roomreservation (
 
 -- reservinfo 테이블 생성
 CREATE TABLE reservinfo (
-	reservationID INT PRIMARY KEY,
-	FOREIGN KEY (reservationID) REFERENCES roomreservation(reservationID),
+	infoID INT AUTO_INCREMENT PRIMARY KEY,
+	reservationID INT NOT NULL REFERENCES roomreservation(reservationID),
 	reservationDate DATE NOT NULL,
 	startTime TIME NOT NULL,
 	endTime TIME NOT NULL,
@@ -172,7 +172,7 @@ CREATE TABLE reservinfo (
 
 -- reservation 테이블 생성
 CREATE TABLE reservation (
-	reservationID INT NOT NULL,
+	reservationID INT AUTO_INCREMENT PRIMARY KEY,
 	userID INT NOT NULL,
 	bookID INT NOT NULL,
 	FOREIGN KEY (userID) REFERENCES user(userID),
@@ -188,7 +188,7 @@ CREATE TABLE payment (
 	payDate DATE NOT NULL
 );
 
--- lostArticle 테이블 생
+-- lostArticle 테이블 생성
 CREATE TABLE lostArticle (
 	articleID INT AUTO_INCREMENT PRIMARY KEY,
 	articleName VARCHAR(20) NOT NULL,
