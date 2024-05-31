@@ -85,7 +85,7 @@
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1azL5JFYkDG-x_0h_-G_UlzYcp8AVSjmVOD48U23bpF8/edit#gid=0)
 <p align="center">
-  <img width="960" alt="스크린샷 2024-05-28 12 45 39" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/c6cfb0f8-b027-4ee5-b894-21ff02da2a3e">
+  <img width="960" alt="Document" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/c6cfb0f8-b027-4ee5-b894-21ff02da2a3e">
 </p>
 <br>
 
@@ -329,8 +329,10 @@ CREATE TABLE lostArticle (
 
 ## 📆 WBS
 
-[WBS 바로가기]()
-
+[WBS 바로가기](https://docs.google.com/spreadsheets/d/1qBXJ-O0gGKtYRTByAJKakIpcM5evuhXJHEDdu9YWGek/edit#gid=0)
+<p align="center">
+  <img width="960" alt="WBS" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/ab87496e-7512-4023-bbdd-6c3d31940eed">
+</p>
 <br>
 
 ## 👨‍👩‍👧‍👦 Member
