@@ -85,7 +85,7 @@
 
 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/1azL5JFYkDG-x_0h_-G_UlzYcp8AVSjmVOD48U23bpF8/edit#gid=0)
 <p align="center">
-  <img alt="Document" src="">
+  <img alt="Document" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/93614cda-80d6-4123-bdbd-ce07b8a5d9f4">
 </p>
 <br>
 
