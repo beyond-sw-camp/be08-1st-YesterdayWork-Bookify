@@ -280,7 +280,27 @@ CREATE TABLE lostArticle (
 <summary><b>📚 도서</b></summary>
     <div>
          <details>
-         <summary><b>1. </b></summary>
+         <summary><b>1. 도서 찾기</b></summary>
+         <p>- 모든 도서 조회 <br><img src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/b9974666-0650-413a-9b90-a41bd73f5ba0"/></p>
+         </details>
+	 <details>
+         <summary><b>2. 도서 추가</b></summary>
+         <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>3. 도서 재고 확인</b></summary>
+         <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>4. 도서 대출 관리</b></summary>
+         <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>5. 도서 정보 수정</b></summary>
+         <p><img src=""/></p>
+         </details>
+	 <details>
+         <summary><b>6. 도서 삭제</b></summary>
          <p><img src=""/></p>
          </details>
     </div>
