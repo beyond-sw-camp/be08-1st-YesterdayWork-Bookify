@@ -209,83 +209,68 @@ CREATE TABLE lostArticle (
 <details>
 <summary><b>👨‍👩‍👧‍👦 회원</b></summary>
 	<a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
-	    회원 Test Case 바로가기</a>
-	<p>
-		<img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775">
-	</p>
+		회원 Test Case 저장하기
+	</a>
+	<p><img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775"></p>
 </details>
 
 ***
 <details>
 <summary><b>🗂️ 대여</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+	<a href="https://github.com/user-attachments/files/15525398/rentTest.pdf">
+		대여 Test Case 저장하기
+	</a>
+	<p><img alt="대여 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/329d80f3-0dc7-49a4-bffb-8f0cc3495320"></p>
 </details>
 
 ***
 <details>
 <summary><b>📆 예약</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+	<a href="https://github.com/user-attachments/files/15525407/reservationTest.pdf">
+		예약 Test Case 저장하기
+	</a>
+	<p><img alt="예약 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/4240e9c0-3ebc-45da-a36c-bbffc20fe44e"></p>
 </details>
 
 ***
 <details>
 <summary><b>📚 도서</b></summary>
-	<a href="https://docs.google.com/document/d/1JyLfLlMlXd0mAlyI19VEC2OIYVC5WlmuFZSNnT83Ftc/edit">도서 Test Case 바로가기</a>
+	<a href="https://docs.google.com/document/d/1JyLfLlMlXd0mAlyI19VEC2OIYVC5WlmuFZSNnT83Ftc/edit">
+		도서 Test Case 저장하기
+	</a>
 	<p><img alt="도서 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/3a9caebd-bde8-4f6c-9e8f-4fd186a0924d"></p>
 </details>
 
 ***
 <details>
 <summary><b>💵 결제</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+    <a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
+	    회원 Test Case 저장가기</a>
+	<p><img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775"></p>
 </details>
 
 ***
 <details>
 <summary><b>🏠 스터디룸</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+    <a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
+	    회원 Test Case 저장가기</a>
+	<p><img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775"></p>
 </details>
 
 ***
 <details>
 <summary><b>📞 스터디룸 예약</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+    <a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
+	    회원 Test Case 저장가기</a>
+	<p><img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775"></p>
 </details>
 
 ***
 <details>
 <summary><b>🗑️ 분실물 관리</b></summary>
-    <div>
-         <details>
-         <summary><b>1. </b></summary>
-         <p><img src=""/></p>
-         </details>
-    </div>
+    <a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
+	    회원 Test Case 저장가기</a>
+	<p><img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775"></p>
 </details>
 
 ***
