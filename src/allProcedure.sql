@@ -52,6 +52,18 @@ BEGIN
 END $$
 DELIMITER ;
 
+-- 책이 반납되면 위의 테이블에 반납된 책의 id, 반납일, 책을 얘약한 사람에게 보낼 메세지를 저장하는 트리거
+DELIMITER $$
+CREATE TRIGGER trg_resbook_to_user
+AFTER DELETE ON rent
+FOR EACH ROW
+BEGIN
+    DECLARE msg VARCHAR(255);
+    SET msg = CONCAT('예약한 책이 반납되었습니다. 반납된 책의 ID: ', OLD.bookID);
+    INSERT INTO resbook_log (message) VALUES (msg);
+END$$
+DELIMITER ;
+
 -- REQ302 도서 예약 여부 변경 트리거
 DELIMITER $$
 CREATE OR REPLACE TRIGGER trg_book_res
@@ -62,6 +74,28 @@ BEGIN
 	SET reservationCheck = 'Y'
 	WHERE bookID = NEW.bookID;
 END $$
+DELIMITER ;
+
+DELIMITER $$
+CREATE PROCEDURE UpdateSameBookCounts()
+BEGIN
+    -- 카운트를 합산
+    UPDATE book t1
+    JOIN (
+        SELECT writer, title, SUM(count) AS total_count
+        FROM book
+        GROUP BY writer, title
+    ) t2 ON t1.writer = t2.writer AND t1.title = t2.title
+    SET t1.count = t2.total_count;
+
+    -- 중복 제거
+    DELETE FROM book
+    WHERE (writer, title, bookID) NOT IN (
+        SELECT writer, title, MIN(bookID)
+        FROM book
+        GROUP BY writer, title
+    );
+END$$
 DELIMITER ;
 
 -- REQ304 도서 예약을 취소한다.
