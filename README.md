@@ -208,49 +208,11 @@ CREATE TABLE lostArticle (
 ### 4. Test Case
 <details>
 <summary><b>👨‍👩‍👧‍👦 회원</b></summary>
-    <div>
-         <details>
-         <summary><b>1. 회원가입</b></summary>
-         <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>2. 비밀번호 찾기</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>3. 회원정보 수정</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>4. 회원 탈퇴</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>5. 초대 내역 확인</b></summary>
-         <p><img src=""/></p>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>6. 회원 상태 관리</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-	 <details>
-         <summary><b>7. 회원ID 검색</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>				 
-	 <details>
-         <summary><b>8. 닉네임 검색</b></summary>
-         <p><img src=""/></p>
-	 <p><img src=""/></p>
-         </details>
-    </div>
+	<a href="https://github.com/user-attachments/files/15525372/userTest.pdf">
+	    회원 Test Case 바로가기</a>
+	<p>
+		<img alt="회원 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/395622d8-4624-4cc5-a58b-fa82d5156775">
+	</p>
 </details>
 
 ***
