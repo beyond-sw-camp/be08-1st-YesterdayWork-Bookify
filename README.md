@@ -279,7 +279,7 @@ CREATE TABLE lostArticle (
 <details>
 <summary><b>📚 도서</b></summary>
 	<a href="https://docs.google.com/spreadsheets/d/1qBXJ-O0gGKtYRTByAJKakIpcM5evuhXJHEDdu9YWGek/edit#gid=0">도서 Test Case 바로가기</a>
-  <img alt="도서 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/3a9caebd-bde8-4f6c-9e8f-4fd186a0924d">
+	<p><img alt="도서 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/3a9caebd-bde8-4f6c-9e8f-4fd186a0924d"></p>
 </details>
 
 ***
