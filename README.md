@@ -244,7 +244,7 @@ CREATE TABLE lostArticle (
 </details>
 <details>
 <summary><b>🏠 스터디룸</b></summary>
-	<a href="https://github.com/user-attachments/files/15525425/paymentTest.studyroomTest.reservationstudyroomTest.lostArticleTest.pdf">
+	<a href="https://github.com/user-attachments/files/15525464/paymentTest.studyroomTest.reservationstudyroomTest.pdf">
 		스터디룸 Test Case 저장하기
 	</a>
 	<p><img alt="스터디룸 Test Case" src="https://github.com/beyond-sw-camp/be08-1st-YesterdayWork-Bookify/assets/121468393/8ed39177-35ad-4b8d-b145-2cdcab1cb192"></p>
